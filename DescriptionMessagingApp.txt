@@ -1,0 +1,83 @@
+Message forum like reddit, but gameified
+
+
+Characters are the currency
+ - sending messages sends the character currency itself
+ - white space is free
+
+communities can be created || just have a few static communities
+ - collection of people with a common interest
+	- public community messages
+		- not taxed
+		- message size determines determines how many people can collect a character
+		- people can read
+			- can collect a character if part of the community
+ - community character bucket
+	- give it some characters that gain interest
+		- persons can pull from the bucket if low on characters
+			- pull limits
+			- no gift limits
+ - comment votes
+	- downvotes cost poster
+		- upto --% of characters spent
+	- upvotes credit poster
+		- upto --% of characters spent
+
+User Accounts
+ - friends
+ - communities
+ - characters
+
+Direct messageing - character sink
+ - taxed
+	- recipient gets part of the transaction
+	- encourageing public socializing
+
+character currency
+ - encouraging shorthand
+ - developing language
+ - currency sinks
+	- take characters from economy
+	- DM's
+	- Competitions
+	- downvotes
+	
+ - currency influxes
+	- add characters to economy
+	- Upvotes
+		- towards poster
+	- dayly bonus
+	- bucket interest
+	- new users
+	- character gifting
+		- gifter gets --% of gifted characters
+		- untaxed
+	- message milestones
+		- +--- characters after --
+			- upvotes received
+			- DM's sent
+			- community's joined
+			- upvotes given
+			- downvotes given
+
+games in the app - stretch
+ - words competion
+	- provide some words to make a sentence out of get votes win prizes
+	- prize may be proportional to votes || winnner takes all
+ - gambling with the server - character sink
+	- the house always wins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
