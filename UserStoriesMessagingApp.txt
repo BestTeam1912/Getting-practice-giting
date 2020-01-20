@@ -1,0 +1,31 @@
+user stories
+
+ * As a user, I can create an account
+	* 1 point
+
+ * As a user, I can login
+	* 2 points
+
+ * As a user, I can join a community
+	* 3 points
+
+ * As an admin I can ban users indiscriminantly
+	* 1 point
+	
+ * As a user, I can message another user
+	* 3 points
+	
+ * As a community, we can store characters
+	* 2 points
+	
+ * As a community, we can silence a user for a limited time
+	* 1-3 points
+	
+ * As a bucket of characters, I can gain interest dayly
+	* 2-3 points
+	
+ * As a user in a community, I can take characters from the community bucket
+	* 3 points
+
+ * As the system I can deny access to the bucket for limited reasons
+	* 4 points

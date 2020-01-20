@@ -1,0 +1,114 @@
+Requirements Technology
+
+
+Users sending saved messages to a community
+
+RDS holds
+ - account information
+ - community information
+ - relation of user to communities
+ - relation of user to friends
+
+angular SPA
+ - community dashboard
+ - account view
+	- settings
+	- profile data
+ - friends list
+	- DM message system
+ - communities list
+	- single community messageboard
+ - login
+
+Spring ?boot?
+ - a framework we will be learning
+
+Hibernate
+ - a framework to reflect pojo to database
+ - covers dao 
+
+jenkins
+ - pipeline
+	- poll from github
+		- on push to "master"
+	- build
+	- deploy to tomcat
+
+maven project
+ - pom.xml
+	- dependency facilitator
+
+aws
+ - ec2
+	- linux vm
+	- ssh into it
+ - rds
+	- Oracle SQL
+	- MySQL is free though
+ - s3
+	- Storage for static web pages
+
+-------------------------------------------------
+=================================================
+-------------------------------------------------
+Requirements Application
+
+
+Community
+ - Name
+ - bucket of characters
+ - message count
+ - message file location
+ 
+
+Milestones
+ - Name - same as user and community pojos
+	- cumulative-votes
+	- characters
+	- sent messages
+ - numerical requirement
+
+User
+ - Name
+ - about me
+	- dob
+	- words
+	- phone
+	- email
+ - characters
+ - sent messages
+ - cumulative-votes
+ - timestamp-characters-negative
+ - created date
+ - milestones
+ - may collect characters
+	- stop hoarders of characters
+	- must contribute some times to collect characters
+ - settings
+
+settings
+ - theme
+ - logout on close
+
+Friends Table
+ - user to user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
